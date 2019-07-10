@@ -1,5 +1,8 @@
 # Computational-Physics
-Here are some solutions of problems on CP courses. Our CP courses focus on Numeral algo. HW.pdfs (Written in Chinese) include the thoughts of codes. HW problems Summary:
+Here are some solutions of problems on CP courses. Our CP courses focus on Numeral algo. HW.pdfs (Written in Chinese) include the thoughts of codes. 
+
+HW problems Summary:
+
 HW1-1 Decimal num to binary num algo.
 
 HW1-2 Gaussian integration method.
